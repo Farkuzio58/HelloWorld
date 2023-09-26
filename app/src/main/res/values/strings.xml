@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">App</string>
+    <string name="tvMessageStart_text">Hola Mundo</string>
+    <string name="tvMessageEnd_text">Malo</string>
+    <string name="MessageGuay_text">Muy Malo</string>
+</resources>
