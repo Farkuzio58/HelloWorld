@@ -3,7 +3,7 @@
 ## Descripción del proyecto
 Este proyecto simple se compone de una Activity que muestra por pantalla Hola Mundo Muy Malo.
 
-## +Acciones realizadas
+## Acciones realizadas
 
 He creado un LinearLayout vertical con dos TextView en su interior (tvMessageStart y tvMessageEnd), los cuales cada uno ocupa un 50% del espacio.
 
