@@ -1,9 +1,9 @@
-#Proyecto Hello World
+# Proyecto Hello World
 
-##Descripción del proyecto
+## Descripción del proyecto
 Este proyecto simple se compone de una Activity que muestra por pantalla Hola Mundo Muy Malo.
 
-##Acciones realizadas
+## +Acciones realizadas
 
 He creado un LinearLayout vertical con dos TextView en su interior (tvMessageStart y tvMessageEnd), los cuales cada uno ocupa un 50% del espacio.
 
@@ -20,7 +20,7 @@ He configurado el archivo gitignore para no subir a GitHub la carpeta .idea, la 
 
 He creado un Repositorio en GitHub.
 
-##Contenidos aprendidos:
+## Contenidos aprendidos:
 - Creación de colores
 - Creación de strings
 - Creación de iconos
@@ -31,6 +31,6 @@ He creado un Repositorio en GitHub.
 - Configuración del gitignore
 - Creación de repositorio en GitHub
 
-##Aspecto de la aplicación
+## Aspecto de la aplicación
 
 ![](https://drive.google.com/uc?export=view&id=1DPHuqRAqmnPbqGbwDJr9S-eWdajWPkzJ)
