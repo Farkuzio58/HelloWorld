@@ -34,7 +34,8 @@ dependencies {
     implementation("com.google.android.material:material:1.8.0")
     implementation("androidx.constraintlayout:constraintlayout:2.1.4")
     //implementation(fileTree(mapOf("dir" to "C:\\Users\\farku\\AppData\\Local\\Android\\Sdk\\platforms\\android-34", "include" to listOf("*.aar", "*.jar"), "exclude" to listOf())))
-    implementation(files("C:\\Users\\farku\\AndroidStudioProjects\\AndroidJar\\android.jar"))
+    //TODO Para documentar el proyecto con java se debe añadir la siguiente libreria
+    //implementation(files("C:\\Users\\farku\\AndroidStudioProjects\\AndroidJar\\android.jar"))
     testImplementation("junit:junit:4.13.2")
     androidTestImplementation("androidx.test.ext:junit:1.1.5")
     androidTestImplementation("androidx.test.espresso:espresso-core:3.5.1")

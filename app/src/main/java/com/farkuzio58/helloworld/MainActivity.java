@@ -13,6 +13,9 @@ import androidx.appcompat.app.AppCompatActivity;
  *     <li>Hemons visto como se crean los recursos en XML</li>
  *     <li>Hemos instanciado en Java un objeto TextView</li>
  *     <li>Se ha personalizado el icono y el nombre de la aplicacion</li>
+ *     <li>Se ha generado el Javadoc</li>
+ *     <li>Se ha configurado el gitignore</li>
+ *     <li>Se ha creado el Readme</li>
  * </ol>
  */
 //TODO Tengo que mirar el temario en clase sobre las Activity
